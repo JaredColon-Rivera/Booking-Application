@@ -1,10 +1,10 @@
 {
   "type": "service_account",
   "project_id": "ionic-angular-course-bd4ea",
-  "private_key_id": "*****",
-  "private_key": "****",
+  "private_key_id": "",
+  "private_key": "",
   "client_email": "firebase-adminsdk-9132z@ionic-angular-course-bd4ea.iam.gserviceaccount.com",
-  "client_id": "114168347068150662053",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
